@@ -1,4 +1,4 @@
-# People Management System
+# RIGHT DOCTORS ASSIGNMENT
 
 A simple CRUD application built with the MERN stack (MongoDB, Express.js, React, Node.js) to manage people records.
 
